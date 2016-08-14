@@ -1,0 +1,15 @@
+{
+  "name": "react-native-unity-ads",
+  "version": "1.0.0",
+  "description": "React Native module for displaying ads from Unity Ads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "unity-ads"
+  ],
+  "author": "Gökhan Sarı <me@th0th.me>",
+  "license": "MIT"
+}
