@@ -45,9 +45,9 @@ import me.th0th.rnunityads.RNUnityAdsPackage;
 @Override
 protected List<ReactPackage> getPackages() {
   return Arrays.<ReactPackage>asList(
-  new MainReactPackage(),
-  // The part that comes from your other native modules goes here.
-  new RNUnityAdsPackage()
+    new MainReactPackage(),
+    // The part that comes from your other native modules goes here.
+    new RNUnityAdsPackage()
   );
 }
 ...
