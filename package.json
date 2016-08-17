@@ -1,6 +1,6 @@
 {
   "name": "react-native-unity-ads",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native module for displaying ads from Unity Ads.",
   "main": "index.js",
   "scripts": {
