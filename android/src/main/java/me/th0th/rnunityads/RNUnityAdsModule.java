@@ -40,7 +40,7 @@ public class RNUnityAdsModule extends ReactContextBaseJavaModule implements IUni
 
     @ReactMethod
     public void init(String gameId) {
-        UnityAds.initialize(getCurrentActivity(), gameId, this, true);
+        UnityAds.initialize(getCurrentActivity(), gameId, this);
     }
 
     @ReactMethod
