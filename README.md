@@ -1,6 +1,6 @@
 # react-native-unity-ads
 
-`react-native-unity-ads` enables you to show Unity ADS in your React Native based app using Unity Ads SDK 2.0 ([Android](https://github.com/Unity-Technologies/unity-ads-android), [iOS](https://github.com/Unity-Technologies/unity-ads-ios)) (currently in BETA).
+`react-native-unity-ads` enables you to show Unity ADS in your React Native based app using Unity Ads SDK 2.0 ([Android](https://github.com/Unity-Technologies/unity-ads-android), [iOS](https://github.com/Unity-Technologies/unity-ads-ios)).
 
 **Note:** The library is Android-only for now. PRs for iOS are welcome.
 
